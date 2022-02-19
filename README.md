@@ -1,5 +1,6 @@
 # CryptoApp
 Bu uygulamayı yazarken çeşitli kaynaklardan yardım alarak yazdım kodların tamamı bana ait değildir.
+kaynaklar (https://coil-kt.github.io/coil/compose/) (https://developer.android.com/jetpack/compose?gclid=CjwKCAiAx8KQBhAGEiwAD3EiP_qej5udSXxFnQpoRSP6-9u7_A2mCTnHbB0nFht17jxLwp5rHrw_WxoC_uUQAvD_BwE&gclsrc=aw.ds) (https://atilsamancioglu.com/) (https://stackoverflow.com/) 
 Kotlin ile yazılmış Kripto para uygulaması. Burada kullanılan öğeler (Navigasyon Compose, Hilt, Retrofit, Search Bar,  LaunchedEffect, MVVM  V.B)
 
 ![ana ekran](https://user-images.githubusercontent.com/97243182/150335976-2c4b7385-e913-4147-9ce9-d8a0860ea845.png)
