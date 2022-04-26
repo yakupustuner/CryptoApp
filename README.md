@@ -1,4 +1,4 @@
-# CryptoApp
+# -CryptoApp
 Bu uygulamayı yazarken çeşitli kaynaklardan yardım alarak yazdım kodların tamamı bana ait değildir.
 kaynaklar (https://coil-kt.github.io/coil/compose/) (https://developer.android.com/jetpack/compose?gclid=CjwKCAiAx8KQBhAGEiwAD3EiP_qej5udSXxFnQpoRSP6-9u7_A2mCTnHbB0nFht17jxLwp5rHrw_WxoC_uUQAvD_BwE&gclsrc=aw.ds) (https://atilsamancioglu.com/) (https://stackoverflow.com/) (https://blog.mindorks.com/using-retrofit-with-kotlin-coroutines-in-android)
 ___________________________________________________________________________________________________________________________________________________
